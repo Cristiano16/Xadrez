@@ -1,7 +1,8 @@
 package xadrez;
 
 public class Peca {
-	private char tipo;
+    //Teste 29/04
+    private char tipo;
     private String posicao;
 
 	//Construtar para peca
